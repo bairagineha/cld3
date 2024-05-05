@@ -14,7 +14,7 @@ pip (Python package manager)
 
 Installation
 Clone this repository to your local machine:
-git clone 
+git clone https://github.com/bairagineha/cld3.git 
 Navigate to the project directory:
 cd text-to-speech
 Install the required dependencies using pip:
